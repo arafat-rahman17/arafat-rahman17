@@ -8,7 +8,7 @@ at Pundra University of Science and Technology.
 
 
 ## Skills: 
-C/C++/Java/PHP / HTML / CSS
+C/C++/Java/PHP / Python/JavaScript/MySQL/HTML / CSS
 
 - 🔭 I’m currently working on Computer skills developing. 
 - 🌱 I’m currently learning Javascript. 
