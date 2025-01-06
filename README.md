@@ -3,12 +3,7 @@
 As-salamu alaykum, I'm Arafat Rahman.
 I am a student and aspiring Machine Learning Engineer, currently pursuing a B.Sc. in Computer Science and Engineering (CSE) at Pundra University of Science and Technology.
 
-I am deeply passionate about artificial intelligence, machine learning, and data science. My current focus is on learning and implementing machine learning models, data preprocessing, and predictive analytics. I have experience working with programming languages and tools such as Python, Java, C++, MySQL, and libraries like TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, and PyTorch.
-
-
-
-
-
+I am deeply passionate about artificial intelligence, machine learning, and data science. My current focus is on learning and implementing machine learning models, data preprocessing, and predictive analytics. I have experience working with programming languages and tools such as Python, Java, C++, MySQL, and libraries like TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, and PyTorch.<br>
 
 ## 🌐Socials :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/arafat1746) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/arafat174690) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arafat1746) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arafatrahman174690@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/arafat1746) 
