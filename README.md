@@ -1,7 +1,5 @@
 # 💫About Me :
-![Arafat Rahman](https://via.placeholder.com/150x50.png?text=Arafat+Rahman&color=red)
-
-<h2>As-salamu alaykum, I'm <span style="color: red;">Arafat Rahman.</span></h2>
+<h2>As-salamu alaykum, I'm Arafat Rahman.</h2>
 I am a student and aspiring Machine Learning Engineer, currently pursuing a B.Sc. in Computer Science and Engineering (CSE) at Pundra University of Science and Technology.
 
 I am deeply passionate about artificial intelligence, machine learning, and data science. My current focus is on learning and implementing machine learning models, data preprocessing, and predictive analytics. I have experience working with programming languages and tools such as Python, Java, C++, MySQL, and libraries like TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, and PyTorch.
