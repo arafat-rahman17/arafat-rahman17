@@ -22,14 +22,15 @@ I am deeply passionate about artificial intelligence, machine learning, and data
 
 ### 🖥️ Programming Languages
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="30" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Java_logo_icon.png" alt="Java" height="30" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/C_Programming_Language.svg" alt="C" height="30" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/C_Sharp_logo.svg" alt="C#" height="30" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="30" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="30" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" height="30"/>  
 </p>
+
 
 
 ---
