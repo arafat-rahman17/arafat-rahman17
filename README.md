@@ -21,13 +21,16 @@ I am deeply passionate about artificial intelligence, machine learning, and data
 # 💻 Tech Stack
 
 ### 🖥️ Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Java_logo_icon.png" alt="Java" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/C_Programming_Language.svg" alt="C" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/C_Sharp_logo.svg" alt="C#" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" height="30" width="40" />
+</p>
+
 
 ---
 
