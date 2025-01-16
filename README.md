@@ -8,7 +8,14 @@ I am a student and aspiring Machine Learning Engineer, currently pursuing a B.Sc
 I am deeply passionate about artificial intelligence, machine learning, and data science. My current focus is on learning and implementing machine learning models, data preprocessing, and predictive analytics. I have experience working with programming languages and tools such as Python, Java, C++, MySQL, and libraries like TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, and PyTorch.<br>
 
 ## 🌐Connect with Me :
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/arafat1746) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/arafat174690) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arafat1746) [![GMail](https://img.shields.io/badge/GMail-D14836?logo=gmail&logoColor=white)](mailto:arafatrahman174690@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/arafat1746) 
+<p align="left">
+  <a href="https://www.facebook.com/arafat1746" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/arafat174690" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/arafat1746" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="mailto:arafatrahman174690@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+  <a href="https://x.com/arafat1746" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+</p>
+
 
 # 💻 Tech Stack
 
