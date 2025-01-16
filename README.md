@@ -1,7 +1,8 @@
 ![logo](https://github.com/arafat-rahman17/arafat-rahman17/blob/main/Arafat%20Rahman%20(1).png)
 # 💫About Me :
 <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Description of image" width="350"  align="right">
-As-salamu alaykum, I'm **Arafat Rahman**
+As-salamu alaykum, I'm Arafat Rahman.
+
 I am a student and aspiring Machine Learning Engineer, currently pursuing a B.Sc. in Computer Science and Engineering (CSE) at Pundra University of Science and Technology.
 
 I am deeply passionate about artificial intelligence, machine learning, and data science. My current focus is on learning and implementing machine learning models, data preprocessing, and predictive analytics. I have experience working with programming languages and tools such as Python, Java, C++, MySQL, and libraries like TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, and PyTorch.<br>
