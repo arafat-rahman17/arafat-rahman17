@@ -86,5 +86,9 @@ I am deeply passionate about artificial intelligence, machine learning, and data
 
 ### Visitor Count
 [![Visitor Count](https://visitcount.itsvg.in/api?id=arafat-rahman17&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+### 📈 Contribution Insights
+<img src="https://github.com/arafat-rahman17/arafat-rahman17/blob/main/contribution-graph.png" alt="Contribution Graph" style="border-radius:10px; width:100%; max-width:700px;" />
 
 
