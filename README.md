@@ -21,6 +21,7 @@ I am deeply passionate about artificial intelligence, machine learning, and data
 # 💻 Tech Stack
 
 ### 🖥️ Programming Languages
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="30" height="30" />
@@ -31,6 +32,7 @@ I am deeply passionate about artificial intelligence, machine learning, and data
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Scipy_0.19.1.svg/1280px-Scipy_0.19.1.svg.png" alt="SciPy" width="30" height="30" />
   <img src="https://seaborn.pydata.org/_images/seaborn-logo-wide-light.svg" alt="Seaborn" width="80" height="30" />
 </p>
+
 
 
 
