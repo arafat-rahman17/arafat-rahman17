@@ -86,6 +86,7 @@ I am deeply passionate about artificial intelligence, machine learning, and data
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 </p>
+
 # 📊 GitHub Stats
 
 ### Overview
