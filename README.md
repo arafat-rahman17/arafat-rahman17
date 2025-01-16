@@ -69,24 +69,22 @@ I am deeply passionate about artificial intelligence, machine learning, and data
 # 📊 GitHub Stats
 
 ### Overview
-![](https://github-readme-stats.vercel.app/api?username=arafat-rahman17&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Arafat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafat-rahman17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 
 ### GitHub Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=arafat-rahman17&theme=radical&hide_border=false)<br/>
+![Arafat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arafat-rahman17&theme=radical&hide_border=false)<br/>
 
 ### Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-rahman17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Arafat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-rahman17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-
-![](https://github-trophies.vercel.app/?username=arafat-rahman17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Arafat's GitHub Trophies](https://github-trophies.vercel.app/?username=arafat-rahman17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ### Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=arafat-rahman17&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=arafat-rahman17&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
