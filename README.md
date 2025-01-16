@@ -83,8 +83,9 @@ I am deeply passionate about artificial intelligence, machine learning, and data
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="30" height="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Scipy_0.19.1.svg/1280px-Scipy_0.19.1.svg.png" alt="SciPy" width="30" height="30" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="30" height="30" />
+  <img src="https://seaborn.pydata.org/_images/seaborn-logo-wide-light.svg" alt="Seaborn" width="80" height="30" />
 </p>
+
 # 📊 GitHub Stats
 
 ### Overview
