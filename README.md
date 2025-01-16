@@ -66,14 +66,27 @@ I am deeply passionate about artificial intelligence, machine learning, and data
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 
-# 📊GitHub Stats :
+# 📊 GitHub Stats
+
+### Overview
 ![](https://github-readme-stats.vercel.app/api?username=arafat-rahman17&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+### GitHub Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arafat-rahman17&theme=radical&hide_border=false)<br/>
+
+### Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-rahman17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
+---
+
+## 🏆 GitHub Trophies
+
 ![](https://github-trophies.vercel.app/?username=arafat-rahman17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+
+### Visitor Count
+
 [![](https://visitcount.itsvg.in/api?id=arafat-rahman17&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
