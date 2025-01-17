@@ -23,15 +23,13 @@ I am deeply passionate about artificial intelligence, machine learning, and data
   <a href="https://x.com/arafat1746" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
-  <a href="https://wa.me/your-number" target="_blank">
+  <a href="https://wa.me/+8801726847950" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" height="30" width="40" />
   </a>
-  <a href="https://t.me/your-username" target="_blank">
+  <a href="https://t.me/arafat1746" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" height="30" width="40" />
   </a>
-  <a href="https://www.threads.net/your-username" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threads/threads-original.svg" alt="threads" height="30" width="40" />
-  </a>
+ 
 
 # 💻 Tech Stack
 
