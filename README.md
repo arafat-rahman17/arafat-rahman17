@@ -20,13 +20,13 @@ I am deeply passionate about artificial intelligence, machine learning, and data
   <a href="mailto:arafatrahman174690@gmail.com" target="blank">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-logo-icon-download-in-svg-png-gif-file-formats--mail-email-logos-icons-2416660.png?f=webp&w=256" alt="gmail" height="30" width="40" />
   </a>
-  <a href="https://x.com/arafat1746" target="_blank">
+  <a href="https://x.com/arafat1746" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
-  <a href="https://wa.me/+8801726847950" target="_blank">
+  <a href="https://wa.me/+8801726847950" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" height="30" width="40" />
   </a>
-  <a href="https://t.me/arafat1746" target="_blank">
+  <a href="https://t.me/arafat1746" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" height="30" width="40" />
   </a>
  
