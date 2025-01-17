@@ -8,14 +8,15 @@ I am a student and aspiring Machine Learning Engineer, currently pursuing a B.Sc
 I am deeply passionate about artificial intelligence, machine learning, and data science. My current focus is on learning and implementing machine learning models, data preprocessing, and predictive analytics. I have experience working with programming languages and tools such as Python, Java, C++, MySQL, and libraries like TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, and PyTorch.<br>
 
 ## 🌐Connect with Me :
+<a href="https://www.facebook.com/arafat1746" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arafat174690" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arafat1746" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="mailto:arafatrahman174690@gmail.com" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-logo-icon-download-in-svg-png-gif-file-formats--mail-email-logos-icons-2416660.png?f=webp&w=256" alt="gmail" height="30" width="40" /></a>
+<a href="https://x.com/arafat1746" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://wa.me/your-number" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/WhatsApp.svg" alt="whatsapp" height="30" width="40" /></a>
+<a href="https://t.me/your-username" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Telegram_logo.svg" alt="telegram" height="30" width="40" /></a>
+<a href="https://www.threads.net/your-username" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Threads_Logo.svg" alt="threads" height="30" width="40" /></a>
 
-
-
-  <a href="https://www.facebook.com/arafat1746" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/arafat174690" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/arafat1746" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:arafatrahman174690@gmail.com" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-logo-icon-download-in-svg-png-gif-file-formats--mail-email-logos-icons-2416660.png?f=webp&w=256" alt="gmail" height="30" width="40" /></a>
-  <a href="https://x.com/arafat1746" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 
 
 # 💻 Tech Stack
@@ -43,7 +44,9 @@ I am deeply passionate about artificial intelligence, machine learning, and data
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" />
 </p>
+
 
 
 
