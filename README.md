@@ -6,7 +6,6 @@ As-salamu alaykum, I'm Arafat Rahman.
 I am a student and aspiring Machine Learning Engineer, currently pursuing a B.Sc. in Computer Science and Engineering (CSE) at Pundra University of Science and Technology.
 
 I am deeply passionate about artificial intelligence, machine learning, and data science. My current focus is on learning and implementing machine learning models, data preprocessing, and predictive analytics. I have experience working with programming languages and tools such as Python, Java, C++, MySQL, and libraries like TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, and PyTorch.<br>
----
 
 ## 🌐Connect with Me :
 <a href="https://www.facebook.com/arafat1746" target="blank">
@@ -113,6 +112,9 @@ I am deeply passionate about artificial intelligence, machine learning, and data
 ### Top Languages
 ![Arafat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-rahman17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+### Top Languages
+![Arafat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-rahman17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ## 🏆 GitHub Trophies
