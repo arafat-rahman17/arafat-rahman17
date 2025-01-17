@@ -30,10 +30,8 @@ I am deeply passionate about artificial intelligence, machine learning, and data
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" height="30" width="40" />
   </a>
   <a href="https://www.threads.net/your-username" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Threads_Logo.svg" alt="threads" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threads/threads-original.svg" alt="threads" height="30" width="40" />
   </a>
-
-
 
 # 💻 Tech Stack
 
